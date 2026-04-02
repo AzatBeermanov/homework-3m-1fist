@@ -1,0 +1,31 @@
+
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #1e1e2f;
+      color: white;
+    }
+
+    .container {
+      margin-top: 100px;
+    }
+
+    button {
+      width: 200px;
+      height: 200px;
+      font-size: 24px;
+      border-radius: 50%;
+      border: none;
+      background: orange;
+      cursor: pointer;
+    }
+
+    button:active {
+      transform: scale(0.95);
+    }
+
+    .stats {
+      margin-top: 20px;
+      font-size: 20px;
+    }
+  
